@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @mavimelato
+- 👋 Hi, I’m @mavimelato.
 - 👀 I’m interested in HTML, CSS, JavaScript, TypeScript and React. 
 - 🌱 I’m currently learning HTML5 + CSS3, MySQL and Python.
 - 💞️ I'm passionate about technologies and love to learn new things.
 - ✍️ In my free time, I pursue Graphic Design and Digital Marketing as hobbies/side hustles.
-- ✉️  You can shoot me an email at melato.mariavitoria@gmail.com! I'll try to respond as soon as I can.
 
 <!---
 mavimelato/mavimelato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
